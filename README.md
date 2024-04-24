@@ -58,4 +58,4 @@ print("---------------------------------------------------------------")
 ![image](https://github.com/Dhiyanesh24/Single-server-infinite-capacity---Markov-Model/assets/118362288/a9aa5521-78b7-4561-b545-383a45251c25)
 
 ## Result :
-
+Hence the experiment is successful
